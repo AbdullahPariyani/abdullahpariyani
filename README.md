@@ -43,6 +43,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### Quick stats about me
+| Github Stats | Top Languages | Activities | 
+| --- | --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats)  |
+
+---
+
 ### ✍️ Blog Posts : 
 - [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
