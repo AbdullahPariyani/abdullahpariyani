@@ -12,7 +12,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### How to reach me:
 
-<a href="https://www.linkedin.com/in/abdullah-pariyani"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;&nbsp;<a href="mailTo:abdullah.pariyani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/10181929/abdullah?tab=profile"><img src=" https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Gmail Badge"></a>
+<a href="https://www.linkedin.com/in/abdullah-pariyani"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;&nbsp;<a href="mailTo:abdullah.pariyani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/10181929/abdullah?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Gmail Badge"></a>
 
 
 ---
