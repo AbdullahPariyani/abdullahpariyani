@@ -34,15 +34,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdullahPariyani&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&layout=compact&theme=vision-friendly-dark)](https://github.com/AbdullahPariyani/github-readme-stats)
-
-[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats)
-
----
-
 ### Quick stats about me
 | My Summary Card| Github Stats | Top Languages |
 | --- | --- | --- |
