@@ -39,7 +39,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue
+[![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats)
+
 ---
 
 ### ✍️ Blog Posts : 
