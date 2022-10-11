@@ -1,5 +1,4 @@
 
-![SO profile](https://api.stackexchange.com/2.3/users/10181929?order=desc&sort=reputation&site=stackoverflow)
 
 <a href="https://www.linkedin.com/in/abdullah-pariyani"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
