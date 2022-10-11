@@ -44,9 +44,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### Quick stats about me
-| Github Stats | Top Languages | Activities | 
+| My Summary Card| Github Stats | Top Languages |
 | --- | --- | --- |
-| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) | [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats)  |
+| [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats)  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdullahPariyani&theme=dark&background=000000)](https://git.io/streak-stats)| ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) 
 
 ---
 
