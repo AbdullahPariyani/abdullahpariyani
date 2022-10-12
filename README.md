@@ -36,6 +36,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### Social
+<p>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" " title="Medium" alt="Medium" />&nbsp;
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" " title="WhatsApp" alt="WhatsApp" />&nbsp;
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" " title="Facebook" alt="Angular" />&nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" " title="GitHub" alt="GitHub" />&nbsp;
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" " title="Instagram" alt="Instagram" />&nbsp;
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" " title="LinkedIn" alt="LinkedIn" />&nbsp;
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" " title="Stack_Overflow" alt="Stack_Overflow" />&nbsp;
+</p>
+
 ### Quick stats about me
 | My Summary Card| Github Stats | Top Languages |
 | --- | --- | --- |
