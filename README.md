@@ -4,38 +4,20 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 🔭 Full Stack Developer with over 6+ years of experience specializing in front-end development. Efficiently worked both in individual assignments and team environments. Skilled in Web and Mobile application development with technologies like Docker, Kubernetes, Cordova, Ionic, AngularJS, jQuery, Angular 14-12-9-8-7-2 and JavaScript, Jquery Mobile, and Node.js. Problem-solving capability peered with effective communication skills.
-- 🌱 Exploring Technical Content Writing.
-- ⚡ In my free time I solve problems on HackerRank and read and write tech articles.
+-   🔭 Full Stack Developer with over 6+ years of experience specializing in front-end development. Efficiently worked both in individual assignments and team environments. Skilled in Web and Mobile application development with technologies like Docker, Kubernetes, Cordova, Ionic, AngularJS, jQuery, Angular 14-12-9-8-7-2 and JavaScript, Jquery Mobile, and Node.js. Problem-solving capability peered with effective communication skills.
+-   🌱 Exploring Technical Content Writing.
+-   ⚡ In my free time I solve problems on HackerRank and read and write tech articles.
 
 ---
 
-### How to reach me:
+### 📱 How to reach me:
 
 <a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>&nbsp;&nbsp;<a href="mailTo:abdullah.pariyani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/10181929/abdullah?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge" target="_blank"></a>&nbsp;&nbsp;<a href="https://abdullah-pariyani.in"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge" target="_blank"></a>
 
-
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### 📱 &nbsp; How to reach me:
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
-
----
-### How to reach me:
 <p>
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium" alt="Medium" />&nbsp;
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail">&nbsp;
@@ -47,21 +29,42 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Stack_Overflow" alt="Stack_Overflow" />&nbsp;
 </p>
 
-### Could:
+---
+
+### ☁ &nbsp; Could:
+
 <p>
 <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" title="Azure_DevOps" alt="Azure_DevOps" />&nbsp;
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" title="Amazon_AWS" alt="Amazon_AWS" />&nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" title="Heroku" alt="Heroku" />&nbsp;
 </p>
 
-### DB:
+---
+
+### ⚡ &nbsp; DB:
+
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" title="MongoDB" alt="MongoDB" />&nbsp;
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" title="Oracle" alt="Oracle" />&nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=whit" title="PostgreSQL" alt="PostgreSQL" />&nbsp;
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite" />&nbsp;
 
-### FrameWork And Libraries:
+---
+
+### 👨‍💻 &nbsp; What I always play with:
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3" />&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" />&nbsp;
+<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="json" alt="json" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" />&nbsp;
+<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" title="Solidity" alt="Solidity" />&nbsp;
+<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" title="Capacitor" alt="Capacitor" />&nbsp;
+<img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" title="Cordova" alt="Cordova" />&nbsp;
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" title="Ionic" alt="Ionic" />&nbsp;
+</p>
+
 <p>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" title="Angular" alt="Angular" />&nbsp;
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" title="Bootstrap" alt="Bootstrap" />&nbsp;
@@ -83,7 +86,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" title="Vue" alt="Vue" />&nbsp;
 </p>
 
-### IDE
+---
+
+### 💻 &nbsp; IDE
+
 <p>
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" title="Android_Studio" alt="Android_Studio" />&nbsp;
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" title="Visual_Studio_Code" alt="Visual_Studio_Code" />&nbsp;
@@ -92,35 +98,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" title="Eclipse" alt="Eclipse" />&nbsp;
 </p>
 
-### Languages and Scripting Language:
-<p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML5" />&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" alt="CSS3" />&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript" />&nbsp;
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" title="json" alt="json" />&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" title="TypeScript" alt="TypeScript" />&nbsp;
-<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" title="Solidity" alt="Solidity" />&nbsp;
-<img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=Capacitor&logoColor=white" title="Capacitor" alt="Capacitor" />&nbsp;
-<img src="https://img.shields.io/badge/Cordova-35434F?style=for-the-badge&logo=apache-cordova&logoColor=E8E8E8" title="Cordova" alt="Cordova" />&nbsp;
-<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" title="Ionic" alt="Ionic" />&nbsp;
-</p>
+### 💡 &nbsp; Prototyping Platforms
 
-### Prototyping Platforms
 <p>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" title="Arduino" alt="Arduino" />&nbsp;
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" title="Raspberry" alt="Raspberry" />&nbsp;
 </p>
 
 ### Quick stats about me
-| My Summary Card| Github Stats | Top Languages |
-| --- | --- | --- |
-| [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats)  | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdullahPariyani&theme=dark&background=000000)](https://git.io/streak-stats)| ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) 
+
+| My Summary Card                                                                                                                                                | Github Stats                                                                                                                                        | Top Languages                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdullahPariyani&theme=dark&background=000000)](https://git.io/streak-stats) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ---
 
-### ✍️ Blog Posts : 
-- [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
-- [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
-- [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### ✍️ Blog Posts :
 
+-   [How to Create REST APIs with Java and Spring Boot](https://www.twilio.com/blog/create-rest-apis-java-spring-boot)
+-   [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
+-   [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
