@@ -19,14 +19,15 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### 📱 &nbsp; How to reach me:
 
 <p>
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium" alt="Medium" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" alt="WhatsApp" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" alt="Angular" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Stack_Overflow" alt="Stack_Overflow" /></a>&nbsp;
+<!-- <a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium" alt="Medium" /></a>&nbsp; -->
+<a href="mailTo:abdullah.pariyani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"></a>&nbsp;
+<a href="https://wa.me/+917405627405/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" alt="WhatsApp" /></a>&nbsp;
+<a href="https://www.facebook.com/public/Abdullah-Pariyani" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" title="Facebook" alt="Angular" /></a>&nbsp;
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" title="GitHub" alt="GitHub" />&nbsp;
+<a href="https://www.instagram.com/abdullahpariyani/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram" alt="Instagram" /></a>&nbsp;
+<a href="https://stackoverflow.com/users/10181929/abdullah?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Stack_Overflow" alt="Stack_Overflow" /></a>&nbsp;
+<a href="https://abdullah-pariyani.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" title="Website" alt="Webiste" /></a>&nbsp;
 </p>
 
 ---
