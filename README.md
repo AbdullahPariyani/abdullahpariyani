@@ -45,6 +45,14 @@
 
 ---
 
+### Quick stats about me
+
+| My Summary Card                                                                                                                                                | Github Stats                                                                                                                                        | Top Languages                                                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdullahPariyani&theme=dark&background=000000)](https://git.io/streak-stats) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+---
+
 ### ☁ &nbsp; Could:
 
 <p>
@@ -99,14 +107,6 @@
 <a href="https://stackoverflow.com/users/10181929/abdullah?tab=profile" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" title="Stack_Overflow" alt="Stack_Overflow" /></a>&nbsp;
 <a href="https://abdullah-pariyani.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" title="Website" alt="Webiste" /></a>&nbsp;
 </p>
-
----
-
-### Quick stats about me
-
-| My Summary Card                                                                                                                                                | Github Stats                                                                                                                                        | Top Languages                                                                                                                                                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahPariyani&theme=vue)](https://git.io/streak-stats) | [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdullahPariyani&theme=dark&background=000000)](https://git.io/streak-stats) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahPariyani&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ---
 
