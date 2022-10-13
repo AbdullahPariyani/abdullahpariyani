@@ -97,7 +97,7 @@
 ### 📱 &nbsp; How to reach me:
 
 <p>
-<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" alt="LinkedIn" /></a>&nbsp;
 <!-- <a href="https://www.linkedin.com/in/abdullah-pariyani" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" title="Medium" alt="Medium" /></a>&nbsp; -->
 <a href="mailTo:abdullah.pariyani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"></a>&nbsp;
 <!-- <a href="https://wa.me/+917405627405/" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" title="WhatsApp" alt="WhatsApp" /></a>&nbsp; -->
