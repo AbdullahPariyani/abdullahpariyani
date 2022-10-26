@@ -118,5 +118,5 @@ Coming soon
 -   [ DOCKER & KUBERNETES - PART:1 - WHAT IS KUBERNETES? AND ITS BASIC COMPONENTS](https://abdullah-pariyani.com/blogs/category/d39a4a20/read/aac5d9d3%23part-1-what-is-kubernetes-and-basic-components-of-kubernetes-architecture-by-abdullah-pariyani)
 -   [ How to build MFE in Angular?](https://abdullah-pariyani.com/blogs/category/222d63d6/read/917b73b3%23part-1-what-is-micro-frontend-by-abdullah-pariyani)
 -   [Event Bubbling | Capturing in Javascript](https://abdullah-pariyani.com/blogs/category/f422222d/read/779bca6a%23event-bubbling-or-capturing-by-abdullah-pariyani)
--   [et vs var vs const](https://abdullah-pariyani.com/blogs/category/f422222d/read/699d59db%23let-vs-var-vs-const-by-abdullah-pariyani)
+-   [let vs var vs const](https://abdullah-pariyani.com/blogs/category/f422222d/read/699d59db%23let-vs-var-vs-const-by-abdullah-pariyani)
 -   [More...](https://abdullah-pariyani.com/blogs)
