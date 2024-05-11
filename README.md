@@ -2,7 +2,7 @@
 
 ### :woman_technologist: &nbsp;About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
 
--   🔭 Full Stack Developer with over 6+ years of experience specializing in front-end development. Efficiently worked both in individual assignments and team environments. Skilled in Web and Mobile application development with technologies like Docker, Kubernetes, Cordova, Ionic, AngularJS, jQuery, Angular 14-12-9-8-7-2 and JavaScript, Jquery Mobile, and Node.js. Problem-solving capability peered with effective communication skills.
+-   🔭 Full Stack Developer with over 8+ years of experience specializing in front-end development. Efficiently worked both in individual assignments and team environments. Skilled in Web and Mobile application development with technologies like Docker, Kubernetes, Cordova, Ionic, AngularJS, jQuery, Angular 14-12-9-8-7-2 and JavaScript, Jquery Mobile, and Node.js. Problem-solving capability peered with effective communication skills.
 -   🌱 Exploring Technical Content Writing.
 -   ⚡ In my free time I solve problems on HackerRank and read and write tech articles.
 
